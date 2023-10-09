@@ -7,6 +7,10 @@
  {
          "name": "fin.th01",
          "url": "https://github.com/numkrirkrit/VPN/raw/main/fin.th01.ovpn"
+ },
+ {
+         "name": "fin.netban01",
+         "url": "https://github.com/numkrirkrit/VPN/raw/main/fin.netban01.ovpn"
  }
       
    ],
