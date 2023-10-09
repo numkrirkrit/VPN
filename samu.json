@@ -3,6 +3,10 @@
  {
          "name": "HOME",
          "url": "https://github.com/numkrirkrit/VPN/raw/main/HOME.ovpn"
+ },
+ {
+         "name": "fin.th01",
+https:/  "url": "https://github.com/numkrirkrit/VPN/raw/main/fin.th01.ovpn"
  }
       
    ],
